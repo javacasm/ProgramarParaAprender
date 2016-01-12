@@ -12,6 +12,8 @@
 
 # Arduino
 
+Si hay un producto que puede representar el boom de la irrupción de la tecnología en el aula ese es Arduino
+
 ## Así lo vemos nosotros
 
 ![arduino](imagenes/ArduinoUno_R3_Front_450px.jpg)
