@@ -90,3 +90,7 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
   * Mostrando que hay margen de mejora y **optimización**
   * Fomentando la **creatividad**
 * Facilita el aprendizaje del **entorno tecnológico**
+
+## [Un ejemplo](./GranadaMagica.md)
+
+[>> Iniciativas.md](./Iniciativas.md)
