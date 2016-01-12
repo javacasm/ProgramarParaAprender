@@ -40,7 +40,7 @@ Todos estos puntos generan
 * **Compartir** las soluciones
 
 
-##
+## Virtudes
 
 * Usamos bloques muy visuales (facilitando la memoria visual)
 * Intuitivo (aprendemos por nosotros mismos investigando), potencia el aprendizaje
