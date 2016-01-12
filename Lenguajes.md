@@ -58,3 +58,17 @@ Nos va a permitir realizar también actividades creativas, a expresarnos
 
 * Algo que encender
 * Algo que mida el tiempo
+
+
+## ¿Cuál entorno elegir?
+
+[Buena Guía](http://programamos.es/reyes-magos-ideas-regalos-programacion-robotica-navidades/)
+
+## Uso
+
+* Sencillez de uso y que sea intuitivo ... aplicaciones web
+* Facilidad de uso ... ratón
+* Facilidad de compartir proyectos ... comunidad integrada
+* Gran número de ejemplos
+* Documentación abundante y simple
+* Comunidad activa y accesible
