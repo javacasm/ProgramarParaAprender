@@ -28,7 +28,8 @@ Enorme comunidad
 
 [cursos](http://paunin.blogspot.com.es/2015/11/quieres-aprender-scratch.html)
 
-https://mooc.scratch.uoc.edu/courses/course-v1:UOCx+UOC002+015_T1/info
+[MOOC UOC](https://mooc.scratch.uoc.edu/courses/course-v1:UOCx+UOC002+015_T1/info)
+[Aprendiendo Scratch desde 0](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
 
 http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/
 http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html
