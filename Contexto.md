@@ -82,7 +82,7 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
 * Poder trabajar con **problemas abiertos**
 * Aprender a **analizar** y **modelizar**
 * **Pensamiento algorítmico**
-* Conectar fácilmente con **STEAM**
+* Conectar fácilmente con [**STEAM**](https://es.wikipedia.org/wiki/STEM)
 * **Compartir** las soluciones
 
 
