@@ -20,14 +20,7 @@ Son muchas en la forma de "Día de la programación"
 
 [Hour of code](http://hourofcode.com) (Origen EEUU)
 
-## MOOCs
-
-[Scratch en UOC](https://mooc.scratch.uoc.edu)
-[MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
-
-code.org
-
-[Open Source](./OpenSource.md)
+[Code](code.org)
 
 ## En muchas paises se está integrando
 
@@ -40,3 +33,13 @@ code.org
 * En Navarra se utiliza en secundaria
 * En Madrid en la asignatura de Tecnología
 * En Cataluña en 4º de secundaria crean Apps con AppInventor
+
+
+## MOOCs
+
+[Scratch en UOC](https://mooc.scratch.uoc.edu)
+[MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
+
+## Open Source
+
+Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./OpenSource.md)
