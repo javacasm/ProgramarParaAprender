@@ -11,7 +11,18 @@
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-# Scratch
+# [Scratch](https://scratch.mit.edu/)
+
+
+MIT
+Michael Restnick
+
+Disponible por acceso web y como aplicación de escritorio
+
+Enorme comunidad
+
+
+
 
 ## Referencias
 
