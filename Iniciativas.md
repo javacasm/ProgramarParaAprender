@@ -16,7 +16,9 @@ Son muchas en la forma de "Día de la programación"
 
 [Scratch Day](http://day.scratch.mit.edu/)
 
-[Week of code](http://codeweek.eu) (Origen EU)
+![codeweek](https://github.com/javacasm/CodeWeek-programacion/raw/master/images/Codeweek.png)
+
+[Code Week](http://codeweek.eu) (Origen EU)
 
 [Hour of code](http://hourofcode.com) (Origen EEUU)
 
@@ -40,6 +42,17 @@ Son muchas en la forma de "Día de la programación"
 [Scratch en UOC](https://mooc.scratch.uoc.edu)
 [MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
 
+[Robótica, conectando con el mundo físico](http://www.scolartic.com/es/web//robotica.-conectando-con-el-mundo-fisico)
+
+[Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
+()[Diseño 3D](http://www.scolartic.com/es/web//impresion-3d))
+
 ## Open Source
 
 Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./OpenSource.md)
+
+
+## Referencias
+
+[Programamos](http://programamos.es)
+[EducaLab](http://edualab.com)
