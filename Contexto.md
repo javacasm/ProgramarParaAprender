@@ -70,13 +70,6 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
 
 ![espiral](./imagenes/EspiralAprendizaje.jpg)
 
-## Uso
-
-
-* Facilidad de instalación ... aplicaciones web
-* Facilidad de uso ... ratón
-* Facilidad de compartir proyectos ... integrada
-
 # Objetivos
 
 * Poder trabajar con **problemas abiertos**
@@ -97,13 +90,3 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
   * Mostrando que hay margen de mejora y **optimización**
   * Fomentando la **creatividad**
 * Facilita el aprendizaje del **entorno tecnológico**
-
-
-## ¿Cuál elegir?
-
-[Buena Guía](http://programamos.es/reyes-magos-ideas-regalos-programacion-robotica-navidades/)
-
-* Sencillez de uso y que sea intuitivo
-* Gran número de ejemplos
-* Documentación abundante y simple
-* Comunidad activa y accesible
