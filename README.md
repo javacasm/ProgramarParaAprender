@@ -15,6 +15,7 @@
 1. [Contexto](./Contexto.md)
 1. [Iniciativas](./Iniciativas.md)
 1. [Lenguajes de programación](./Lenguajes.md)
+1. [Programando con bloques](./Bloques.md)
 1. [Scratch](./Scratch.md) y [alternativas](./Snap.md)
 1. [Arduino](./Arduino.md) / [makey makey](./MakeyMakey.md) [BitBloq](./Bitbloq.md)
 1. [App inventor](./AppInventor.md)
