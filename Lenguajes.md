@@ -19,7 +19,7 @@
 Los algoritmos ...
 * Permiten modelar procesos físicos complejos (gases)
 * Simular procesos (péndulo)
-* No sólo existen dentro de los ordenadores (atarse los zapatos)
+* No sólo existen dentro de los ordenadores (atarse los zapatos, receta de cocina, planning de las vacaciones,...)
 * No sólo se aplican a problemas matemáticos
 
 Pensamiento Algoritmico es una manera de pensar orientado a resolver problemas
