@@ -10,7 +10,7 @@
 
 ![CCbySA](imagenes/CCbySQ_88x31.png)
 
-# Robótica en la educación
+# Programación en la educación
 
 ## La moda de la robótica y la programación
 
@@ -55,10 +55,10 @@
 Más dudas que otra cosa...
 ### ¿para qué sirve?
 
-	* Capacidad de razonamiento
-	* Enseña a resolver problemas
-	* Capacidad analítica
-	* Concentración
+* Capacidad de razonamiento
+* Enseña a resolver problemas
+* Capacidad analítica
+* Concentración
 
 ### ¿Qué aporta?
 
@@ -66,7 +66,7 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
 
 ### ¿Qué buscamos?
 
-## Queremos mejorar la manera en la que se aprende
+#### **Queremos mejorar la manera en la que se aprende**
 
 ![espiral](./imagenes/EspiralAprendizaje.jpg)
 
