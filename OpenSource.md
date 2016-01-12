@@ -35,3 +35,14 @@
 Imágenes, diseños, electrónica, programas
 
 ![prusa](./imagenes/prusa.jpg)
+
+## Recursos libres
+
+
+## [Coursera](https://es.coursera.org/)
+
+## [edx](https://www.edx.org/)
+
+## [udacity](https://www.udacity.com/me#!/)
+
+## [miriadax](https://miriadax.net/home)

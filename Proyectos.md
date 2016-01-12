@@ -13,6 +13,8 @@
 
 # Proyectos
 
+[Granada Mágica](./GranadaMagica.md)
+
 ## Música
 
 ### Theremin

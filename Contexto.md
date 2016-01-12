@@ -10,12 +10,49 @@
 
 ![CCbySA](imagenes/CCbySQ_88x31.png)
 
-### ¿qué es programar?
+# Robótica en la educación
 
-### ¿sabéis programar?
+## La moda de la robótica y la programación
 
-### ¿habéis programado?
+* MOOCs Robóticos
+* Experiencias online por todas partes
 
+## ¿Proyectos de robótica y programación o mejor proyectos que usan la programación y la robótica?
+
+* ¿Asignatura de robótica?
+
+* ¿Enseñar a programar?
+
+* ¿qué aporta?
+
+### Mejor si lo usamos como algo transversal
+
+### ¿Edades?
+
+* ¿Uno para todos o uno para cada edad?
+
+## ¿Coste?
+
+* Podemos aprender a reciclar materiales
+
+## ¿Qué es la robótica? ¿qué es programar?
+
+* ¿Seré capaz de programar? Vamos a verlo...
+	* ¿Podemos enseñar a programar?
+	* ¿Para qué sirve programar?
+
+* ¿Seré capaz de diseñar en 3D? Veámoslo
+	* ¿Lo uso o lo hago?
+
+* ¿Sabré electrónica? Kits
+
+* ¿Sabré dirigirlos? ¡Seguro que sí!
+	* Trabajando los proyectos
+
+* ¿Necesito un taller?
+	* Trabajando fuera del aula
+
+Más dudas que otra cosa...
 ### ¿para qué sirve?
 
 	* Capacidad de razonamiento
@@ -23,13 +60,13 @@
 	* Capacidad analítica
 	* Concentración
 
-¿Qué aporta?
+### ¿Qué aporta?
 
 Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/) que "demuestran" sus ventajas
 
-¿Qué buscamos?
+### ¿Qué buscamos?
 
-Todos estos puntos generan
+## Queremos mejorar la manera en la que se aprende
 
 ![espiral](./imagenes/EspiralAprendizaje.jpg)
 
