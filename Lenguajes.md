@@ -72,3 +72,5 @@ Nos va a permitir realizar también actividades creativas, a expresarnos
 * Gran número de ejemplos
 * Documentación abundante y simple
 * Comunidad activa y accesible
+
+[>> Bloques](./Bloques.md)
