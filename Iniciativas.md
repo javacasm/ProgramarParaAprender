@@ -47,6 +47,14 @@ Son muchas en la forma de "Día de la programación"
 [Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
 ()[Diseño 3D](http://www.scolartic.com/es/web//impresion-3d))
 
+## [5 Razones](http://blog.todoelectronica.com/2015/10/5-motivos-por-los-aficionar-los-ninos-y-tan-ninos-la-programacion-la-robotica/)
+
+* Es muy fácil empezar desde 0
+* Es divertido y engancha
+* Hace volar la imaginación
+* Fomenta la innovación
+* Es el futuro (casi el presente)
+
 ## Open Source
 
 Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./OpenSource.md)
@@ -56,3 +64,5 @@ Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./O
 
 [Programamos](http://programamos.es)
 [EducaLab](http://edualab.com)
+
+[>> Lenguajes](./Lenguajes.md)
