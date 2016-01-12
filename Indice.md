@@ -8,13 +8,13 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](imagenes/CCbySQ_88x31.png)
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
 
 
 ## Calendario
 
-12 Enero - Introducción y contexto
+12 Enero - Introducción, contexto y primeros ejemplos
 14 Enero - Scratch
 19 Enero - Scratch
 21 Enero - Arduino - MakeyMakey
