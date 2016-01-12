@@ -88,15 +88,15 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
 
 ## Virtudes
 
-* Usamos bloques muy visuales (facilitando la memoria visual)
-* Intuitivo (aprendemos por nosotros mismos investigando), potencia el aprendizaje
-* Facilidad de uso
-* Sólo encajan algunos (concepto de sintaxis)
-* Enseña a usar un método estructurado que facilita la traducción de los algoritmos
-* No enseñan que no siempre hay soluciones únicas,
-  * abriendo el margen a la mejora y optimización
-  * fomentando la creatividad
-* Facilita el aprendizaje del entorno tecnológico
+* **Intuitivo** (aprendemos por nosotros mismos investigando), potencia el aprendizaje
+* **Facilidad de uso**
+* Usamos bloques **muy visuales** (facilitando la memoria visual)
+* Sólo encajan algunos bloques entre sí (concepto de sintaxis)
+* Enseña a usar un **método estructurado** que facilita la traducción de los algoritmos
+* No enseñan que **no siempre la solución es única**:
+  * Mostrando que hay margen de mejora y **optimización**
+  * Fomentando la **creatividad**
+* Facilita el aprendizaje del **entorno tecnológico**
 
 
 ## ¿Cuál elegir?
