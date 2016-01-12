@@ -22,6 +22,9 @@ Son muchas en la forma de "Día de la programación"
 
 ## MOOCs
 
+[Scratch en UOC](https://mooc.scratch.uoc.edu)
+[MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
+
 code.org
 
 [Open Source](./OpenSource.md)
