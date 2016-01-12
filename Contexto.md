@@ -10,21 +10,30 @@
 
 ![CCbySA](imagenes/CCbySQ_88x31.png)
 
+### ¿qué es programar?
+
+### ¿sabéis programar?
+
+### ¿habéis programado?
+
+### ¿para qué sirve?
+
+	* Capacidad de razonamiento
+	* Enseña a resolver problemas
+	* Capacidad analítica
+	* Concentración
+
 ¿Qué aporta?
 
+Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/) que "demuestran" sus ventajas
 
 ¿Qué buscamos?
-
-* Sencillez de uso y que sea intuitivo
-* Gran número de ejemplos
-* Documentación abundante y simple
-* Comunidad activa y accesible
 
 Todos estos puntos generan
 
 ![espiral](./imagenes/EspiralAprendizaje.jpg)
 
-## uso
+## Uso
 
 
 * Facilidad de instalación ... aplicaciones web
@@ -51,3 +60,13 @@ Todos estos puntos generan
   * abriendo el margen a la mejora y optimización
   * fomentando la creatividad
 * Facilita el aprendizaje del entorno tecnológico
+
+
+## ¿Cuál elegir?
+
+[Buena Guía](http://programamos.es/reyes-magos-ideas-regalos-programacion-robotica-navidades/)
+
+* Sencillez de uso y que sea intuitivo
+* Gran número de ejemplos
+* Documentación abundante y simple
+* Comunidad activa y accesible
