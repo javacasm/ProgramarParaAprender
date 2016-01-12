@@ -36,6 +36,10 @@ Imágenes, diseños, electrónica, programas
 
 ![prusa](./imagenes/prusa.jpg)
 
+[¿Por qué usar Open Source en educación?](http://www.slideshare.net/josepujolperez/programacion-y-robtica-secundaria-open-source?next_slideshow=1)
+
+[Más sobre el tema](https://github.com/javacasm/ILoveOpen/blob/master/contenidos.md)
+
 ## Recursos libres
 
 
