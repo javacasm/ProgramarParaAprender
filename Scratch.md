@@ -9,7 +9,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](imagenes/Licencia_CC.png)
+[![CCbySA](imagenes/CCbySQ_88x31.png)]([CCbySA](imagenes/Licencia_CC.png))
 
 # Scratch
 
