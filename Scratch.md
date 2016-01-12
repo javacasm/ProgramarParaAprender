@@ -36,3 +36,5 @@ Enorme comunidad
 
 http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/
 http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html
+
+[>> Alternativas a Scratch (Snap)](./Snap.md)
