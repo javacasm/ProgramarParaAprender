@@ -22,7 +22,12 @@ Usa tecnología propietaria de Adobe (Flash), por lo podría no funcionar en tod
 
 Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
-## bloques
+## Interface
+
+![interface](./imagenes/scratch-interfaz.png)
+
+## Bloques
+
 * Movimiento
 * Apariencia
 * Sonidos
@@ -36,6 +41,9 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ## Formas de los bloques
 
+## Puntos de partida
+
+![PuntoPartida.jpg](./imagenes/PuntoPartida.jpg)
 
 ### Cada uno lleva su propio programa
 
@@ -141,7 +149,6 @@ Un mismo personaje puede tener varios disfraces
 
 [Presentación Scratch](http://www.slideshare.net/josepujolperez/introduccion-a-scratch)
 
-http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/
-http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html
+[Tutoriales](http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html)
 
 [>> Alternativas a Scratch (Snap)](./Snap.md)
