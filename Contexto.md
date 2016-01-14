@@ -91,6 +91,6 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
   * Fomentando la **creatividad**
 * Facilita el aprendizaje del **entorno tecnológico**
 
-## [Un ejemplo](./GranadaMagica.md)
+## [Un ejemplo](./AlhambraMagica.md)
 
 [>> Iniciativas.md](./Iniciativas.md)
