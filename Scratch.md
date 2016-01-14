@@ -45,10 +45,6 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ![PuntoPartida.jpg](./imagenes/PuntoPartida.jpg)
 
-### Cada uno lleva su propio programa
-
-### Pueden interaccionar
-
 ## ¡¡Vamos a dibujar!!
 
 ### Es un sistema pensado para ser muy adaptable
@@ -112,16 +108,20 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ![coordenadas](./imagenes/3_ejes.png)
 
-## Las coordenadas son unas "variables especiales"
-
-* Vamos a mover un personaje por la pantalla
-* Usaremos las teclas (sensores y condicionales)
-
 ## personaje
 
 ![gatitoScratch.jpg](./imagenes/gatitoScratch.jpg)
 
 Un mismo personaje puede tener varios disfraces
+
+### Cada uno lleva su propio programa
+
+### Pueden interaccionar
+
+## Las coordenadas son unas "variables especiales"
+
+* Vamos a mover un personaje por la pantalla
+* Usaremos las teclas (sensores y condicionales)
 
 # Tarea 3: Crear una animación de un personaje que se mueva con las teclas
 
