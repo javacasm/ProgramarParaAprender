@@ -16,8 +16,10 @@
 * Es una alternativa a [Scratch](./Scratch.md)
 * Los bloques son prácticamente idénticos
 * Usa 100% open source
+* Podemos descargar el código y usarlo offline
 
 
+![snap](./imagenes/snap.png)
 
 
 [>> Arduino](./Arduino.md)
