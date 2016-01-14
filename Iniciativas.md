@@ -40,12 +40,14 @@ Son muchas en la forma de "Día de la programación"
 ## MOOCs
 
 [Scratch en UOC](https://mooc.scratch.uoc.edu)
+
 [MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
 
 [Robótica, conectando con el mundo físico](http://www.scolartic.com/es/web//robotica.-conectando-con-el-mundo-fisico)
 
 [Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
-()[Diseño 3D](http://www.scolartic.com/es/web//impresion-3d))
+
+([Diseño 3D](http://www.scolartic.com/es/web//impresion-3d))
 
 ## [5 Razones](http://blog.todoelectronica.com/2015/10/5-motivos-por-los-aficionar-los-ninos-y-tan-ninos-la-programacion-la-robotica/)
 
@@ -63,6 +65,7 @@ Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./O
 ## Referencias
 
 [Programamos](http://programamos.es)
+
 [EducaLab](http://edualab.com)
 
 [>> Lenguajes](./Lenguajes.md)
