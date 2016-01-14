@@ -36,9 +36,6 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ## Formas de los bloques
 
-## Disfraces
-
-![gatitoScratch.jpg](./imagenes/gatitoScratch.jpg)
 
 ### Cada uno lleva su propio programa
 
@@ -51,8 +48,6 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 ### Por eso tenemos que dar todos los pasos
 
 ### Tendremos que decir cuando usamos el lapiz y donde empezamos a dibujar
-
-* * *
 
 ## Cuadrado
 
@@ -93,7 +88,48 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ![Variables.png](./imagenes/Variables.png)
 
-# Tarea 1: Utilizando líneas haz un programa que permita dibujar un poligo según una variable con su número de lados
+# Tarea 0: rehacer el dibujo del polígono definiendo variables
+
+### Podemos definir las variables para decidir el flujo de ejecución
+
+# Tarea 1: Utilizando líneas haz un programa que permita dibujar un poligono según una variable con su número de lados
+
+## Sentencias de Control
+
+![control](./imagenes/Control.png)
+
+### Condicionales
+
+## Moviéndonos por la pantalla
+
+![coordenadas](./imagenes/3_ejes.png)
+
+## Las coordenadas son unas "variables especiales"
+
+* Vamos a mover un personaje por la pantalla
+* Usaremos las teclas (sensores y condicionales)
+
+## personaje
+
+![gatitoScratch.jpg](./imagenes/gatitoScratch.jpg)
+
+Un mismo personaje puede tener varios disfraces
+
+# Tarea 3: Crear una animación de un personaje que se mueva con las teclas
+
+## Creando nuestros propios bloques (objetos)
+
+### Scratch nos permite definir nuevos bloques
+
+![Bloques](./imagenes/Bloques.png)
+
+## Ejemplos
+
+[tutoriales de dsigno](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
+
+[libro virtual sobre scratch](http://www.tallertecno.com/libro.html#scratch)
+
+[Tutorial básico sobre movimiento de personajes](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
 
 ## Referencias
 
