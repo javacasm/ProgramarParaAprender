@@ -135,7 +135,7 @@ Un mismo personaje puede tener varios disfraces
 
 ## Ejemplos
 
-[tutoriales de dsigno](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
+[Tutoriales de dsigno](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
 
 [libro virtual sobre scratch](http://www.tallertecno.com/libro.html#scratch)
 
@@ -143,7 +143,7 @@ Un mismo personaje puede tener varios disfraces
 
 ## Referencias
 
-[cursos](http://paunin.blogspot.com.es/2015/11/quieres-aprender-scratch.html)
+[Diversos cursos](http://paunin.blogspot.com.es/2015/11/quieres-aprender-scratch.html)
 
 [MOOC UOC](https://mooc.scratch.uoc.edu/courses/course-v1:UOCx+UOC002+015_T1/info)
 
