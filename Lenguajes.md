@@ -44,6 +44,7 @@ Nos va a permitir realizar también actividades creativas, a expresarnos
 * Capacidad para comunicarse y trabajar en equipo
 
 
+
 ### ¿Qué es un programa?
 
 #### Programa parpadeo (blink)
@@ -59,6 +60,17 @@ Nos va a permitir realizar también actividades creativas, a expresarnos
 * Algo que encender
 * Algo que mida el tiempo
 
+
+
+## Podemos representar un algoritmo usando diagramas de flujo
+
+![a](./imagenes/LampFlowchart-es.svg.png)
+
+#### ¿Por qué es importante dibujar antes de programar?
+
+![posibilidades](./imagenes/diagrama-de-flujo.jpg)
+
+#### A partir del esquema será mucho más fácil "escribir" el programa.
 
 ## ¿Cuál entorno elegir?
 
