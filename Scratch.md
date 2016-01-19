@@ -139,6 +139,13 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 # Tarea 1: Utilizando líneas haz un programa que permita dibujar un poligono según una variable con su número de lados
 
+## Creando nuestros propios bloques (objetos)
+
+### Scratch nos permite definir nuevos bloques
+
+![Bloques](./imagenes/Bloques.png)
+
+
 ## Sentencias de Control
 
 ![control](./imagenes/Control.png)
@@ -173,11 +180,7 @@ Un mismo personaje puede tener varios disfraces
 
 # Tarea 3: Crear una animación de un personaje que se mueva con las teclas
 
-## Creando nuestros propios bloques (objetos)
 
-### Scratch nos permite definir nuevos bloques
-
-![Bloques](./imagenes/Bloques.png)
 
 ## Ejemplos
 
