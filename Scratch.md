@@ -163,15 +163,14 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 ![coordenadas](./imagenes/3_ejes.png)
 
-## personaje
+## Personaje
 
 ![gatitoScratch.jpg](./imagenes/gatitoScratch.jpg)
 
-Un mismo personaje puede tener varios disfraces
 
-### Cada uno lleva su propio programa
+### Cada personaje lleva su propio programa
 
-### Pueden interaccionar
+![mov](./imagenes/3_movimientos_basicos_bruja.png)
 
 ## Las coordenadas son unas "variables especiales"
 
@@ -179,10 +178,37 @@ Un mismo personaje puede tener varios disfraces
 
 * Usaremos las teclas (sensores y condicionales)
 
-# Tarea 3: Crear una animación de un personaje que se mueva con las teclas
+# Ejercicio: Vamos a mover un personaje con las teclas
+
+![Mejor](./imagenes/movimiento.png)
+
+### Un mismo personaje puede tener varios disfraces
 
 
+### Ejercicio: crea una animación con varios disfraces
 
+![disfraces](./imagenes/disfraz.png)
+
+
+### Los personajes hablan!!
+
+### Ejercicio: Crea varios personajes y muévelos por pantalla
+
+#### ¿ Cómo hacemos que haya varios personajes?
+
+
+### Añadiendo azar
+
+![azar](./imagenes/azar.png)
+
+### Pueden interaccionar entre sí
+
+![interacción](./imagenes/12_codigo_estrella.png)
+
+### Añadiendo puntos
+
+
+### Sonido
 ## Ejemplos
 
 [Tutoriales de dsigno](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)

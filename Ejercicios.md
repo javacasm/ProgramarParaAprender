@@ -9,3 +9,6 @@
 Scratch II
 
 1. Mover una imagen por pantalla con las teclas
+1. Anima los personajes usando varios
+1. Crea varios personajes y muévelos por pantalla
+1. Define interacciones entre ellos
