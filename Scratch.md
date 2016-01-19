@@ -71,10 +71,14 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ![cuadradoSinBucle](./imagenes/CuadradoSinBucle.png)
 
+## Antes de hacer otro ejemplo vamos a guardar este. Podemos hacerlo dándole nombre y también podemos descargarlo a nuestro PC
+
 ### ¡¡Pero podemos hacerlo más fácil
 	Vamos a repetir 4 veces:
 		1. Línea
 		2. Giro
+
+#### Usaremos el bucle
 
 ![cuadradoConBucle](./imagenes/CuadradoConBucle.png)
 
@@ -87,6 +91,41 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 ### ¿Y si repetimos muchos cuadrados?
 
 ![Spirograph](./imagenes/Spirograph.png)
+
+
+
+# Movimientos Relativos y absolutios
+
+## Vamos a ver que podemos hacer casi siempre los cambios (movimientos, cambios de color,...) de dos formas:
+
+* Fijando: damos un valor concreto
+* Cambiando: damos el cambio que se va a hacer.
+
+#### Conviene prestar especial atención a las coordenadas y a los movimientos
+
+## Eventos
+
+#### Los eventos son sucesos que marcan el funcionamiento de nuestro programa.
+
+Pueden ser:
+
+* Movimientos de ratón
+* Pulsaciones de teclas
+* Pulsar la bandera verde
+* Enviar mensajes
+
+###  Ejercicio: Mover una imagen por pantalla con las teclas
+
+### Aspecto
+
+#### Podemos cambiar el aspecto de los dibujos con diferentes opciones:
+
+* Podemos cambiar el color del lápiz con las opciones de los bloques de lapiz
+* Cambiar ancho
+
+Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
+
+### Ejercicio: dibujar una linea con todos los colores disponibles (cambiar a cono de colores)
 
 ## Variables
 
@@ -105,6 +144,11 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 ![control](./imagenes/Control.png)
 
 ### Condicionales
+
+#### Nos van a permitir establecer el orden de ejecución de los bloques:
+
+* Podemos hacer bucles: contar y  mientras
+* Condicionales: dependiendo de las operaciones lógicas
 
 ## Moviéndonos por la pantalla
 
