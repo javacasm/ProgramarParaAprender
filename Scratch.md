@@ -147,6 +147,8 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de un color
 
+![bloques propioes](./imagenes/BloquesPropios.png)
+
 ## Sentencias de Control
 
 ![control](./imagenes/Control.png)
