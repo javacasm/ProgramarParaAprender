@@ -143,7 +143,8 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 ![control](./imagenes/Control.png)
 
-### Condicionales
+### Usanddo bucles repetitivos
+### Ejercicio : estrella de 60 cuadrados de colores
 
 #### Nos van a permitir establecer el orden de ejecución de los bloques:
 
@@ -167,6 +168,7 @@ Un mismo personaje puede tener varios disfraces
 ## Las coordenadas son unas "variables especiales"
 
 * Vamos a mover un personaje por la pantalla
+
 * Usaremos las teclas (sensores y condicionales)
 
 # Tarea 3: Crear una animación de un personaje que se mueva con las teclas
