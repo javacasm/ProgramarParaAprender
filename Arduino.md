@@ -25,13 +25,16 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 ![pinout](imagenes/Arduino_Uno_pinout.png)
 
+
+## [¿qué es arduino?](./presentaciones/%200.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
+
 * * *
 
 # Para hacer un proyecto necesitamos:
 
 * ### Programa
 
-* ### Montaje
+* ### Montaje ([electŕonica](./presentaciones/4.0%20-%20Introducci%C3%B3n%20a%20la%20electr%C3%B3nica.pdf))
 
 #### (descargar el programa en la placa)
 
