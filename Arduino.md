@@ -38,7 +38,9 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 #### (descargar el programa en la placa)
 
-
-
-
 #### [Instalación del IDE de arduino](http://www.slideshare.net/javacasm/32-instalacin-del-ide)
+
+## Ejemplos
+
+* [Casa domótica](http://www.slideshare.net/josepujolperez/memoria-casa-inteligente-con-s4a?utm_source=slideshow&utm_medium=ssemail&utm_campaign=upload_digest)
+* [Proyectos](http://www.instructables.com/id/Arduino-Projects/)
