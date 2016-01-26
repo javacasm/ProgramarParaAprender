@@ -14,9 +14,9 @@
 
 ## Calendario
 
-12 Enero - Introducción, contexto y primeros ejemplos
-14 Enero - Scratch
-19 Enero - Scratch
-21 Enero - Arduino - MakeyMakey
-26 Enero - Bitbloq
-28 Enero - AppInventor
+* 12 Enero - Introducción, contexto y primeros ejemplos
+* 14 Enero - Scratch
+* 19 Enero - Scratch
+* 26 Enero - Arduino - MakeyMakey
+* 28 Enero - Bitbloq
+* 2 Febrero - AppInventor
