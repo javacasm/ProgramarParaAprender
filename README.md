@@ -3,7 +3,7 @@
 ## Curso del CEP de Granada
 
 ## Enero de 2016
-(12,14,19,26 y 28 de Enero y 2 de Febrero de 2016)
+(12, 14, 19, 26, 28 de Enero y 2 de Febrero de 2016)
 
 [Calendario](./Indice.md)
 
