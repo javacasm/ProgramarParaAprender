@@ -23,7 +23,7 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 ## Así es internamente
 #### (mucho por descubrir)
 
-![pinout](imagenes/ccb2f5f1008b324e19add5295cc14e68.jpg)
+![pinout](imagenes/Arduino_Uno_pinout.png)
 
 * * *
 
