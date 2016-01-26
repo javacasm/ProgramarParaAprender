@@ -1,6 +1,6 @@
 # Programar Para Educar
 
-## Curso del./imagenes/ CEP de Granada(
+## Curso del CEP de Granada
 
 
 ## Enero de 2016
