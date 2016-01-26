@@ -14,9 +14,9 @@
 
 ## Calendario
 
-* 12 Enero - Introducción, contexto y primeros ejemplos
-* 14 Enero - Scratch
-* 19 Enero - Scratch
-* 26 Enero - Arduino - MakeyMakey
-* 28 Enero - Bitbloq
-* 2 Febrero - AppInventor
+* 12 Enero - [Contexto](./Contexto.md), [Iniciativas](./Iniciativas.md) y [primeros ejemplos](./Bloques.md)
+* 14 Enero - [Scratch - Introducción y geometría](./Scratch.md)
+* 19 Enero - [Scratch - Videojuegos](./Scratch.md#moviéndonos-por-la-pantalla)
+* 26 Enero - [Arduino](./Arduino.md) - [makey makey](./MakeyMakey.md)
+* 28 Enero - [BitBloq](./Bitbloq.md)
+* 2 Febrero - [App inventor](./AppInventor.md)
