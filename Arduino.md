@@ -16,7 +16,7 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 ## Así lo vemos nosotros
 
-![arduino](imagenes/ArduinoUno_R3_Front_450px.jpg)
+![arduino](imagenes/Arduino_Uno_-_R3.jpg)
 
 [más detalle](imagenes/ArduinoUno_R3_Front.jpg)
 
