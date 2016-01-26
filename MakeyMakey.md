@@ -64,6 +64,8 @@ Por detrás
 1. Añade componentes
 ![4](https://cdn.sparkfun.com/r/600-600/assets/7/f/e/6/3/52e95334ce395fe8108b456d.jpg)
 
+# [Ejemplos](http://makeymakey.com/howto.php#software)
+
 # Referencias
 
 [Lecciones](http://makeymakey.com/lessons/)
