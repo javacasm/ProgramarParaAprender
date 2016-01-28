@@ -46,7 +46,7 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 
 ### Ver código C++ de un programa bitbloq:  
-[video ver código C++](https://youtu.be/cg1YNVSprdo)
+[[video]](https://youtu.be/cg1YNVSprdo)
 
 Desde bitbloq siempre podemos ver el codigo Arduino generado. De momento no podemos modificar este código pero si copiarlo y llevarlo al IDE de arduino
 
