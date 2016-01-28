@@ -26,7 +26,7 @@ Los bloques están agrupados en familias, cada una de ellas con un color concret
 Bitbloq es un entorno de programación visual que nos permite crear programas para Arduino y placas compatibles y transferir los mismos a las placas de una forma sencilla.
 
 Podemos acceder directamente desde su web  http://bitbloq.bq.com/
-(Pudiera ocurrir que algunos vídeos se usa la versión anterior, que era la recomendada hasta el paso día 15... si es así no dejes de comentarlo para que lo actualice)
+(Pudiera ocurrir que algunos vídeos se usa la versión anterior, que era la recomendada hasta hace poco ...)
 
 Funciona mejor con Chrome en todos los sistemas operativos, y al usarlo te dirá si necesitas drivers o instalar algún complemento en tu sistema
 
@@ -46,7 +46,7 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 
 ### Ver código C++ de un programa bitbloq:  
-https://youtu.be/cg1YNVSprdo)
+[video ver código C++](https://youtu.be/cg1YNVSprdo)
 
 Desde bitbloq siempre podemos ver el codigo Arduino generado. De momento no podemos modificar este código pero si copiarlo y llevarlo al IDE de arduino
 
@@ -57,7 +57,6 @@ Desde bitbloq siempre podemos ver el codigo Arduino generado. De momento no pode
 Bitbloq nos permite programar nuestro arduino sin instalar (practicamente) nada en nuestro ordenador. Sólo tenemos que pulsar sobre el botón cargar lo que hace que se compile el código, se detecte la placa y se envíe el programa a naestro Arduino
 
 
-¿¿¿¿
 Para aprender las funciones de pin en bitbloq  
 [[vídeo]](http://youtu.be/zKs0-vwoxMM)
 
