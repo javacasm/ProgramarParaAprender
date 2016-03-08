@@ -25,7 +25,7 @@
 
 ### ¿Por qué me gusta esta forma de funcionar?
 
-	### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
+#### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
 
 ### Ejemplo: [Arduino](http://www.arduino.cc)
 ![arduino](./imagenes/Arduino_Uno_-_R3.jpg)
