@@ -88,4 +88,4 @@ Para comenzar a depurar seleccionaremos la conexión según nuestra configuraci�
 
 Una vez seleccionada la conexión obtendremos un código para asegurar que la conexión entre ordenador y dispositivo es el correcto. Podemos escanear el código o escribirlo. Este código es el que utilizar el servidor del mit para poner en conexión al dispositivo y al PC.
 
-![codigo](http://appinventor.mit.edu/explore/sites/all/files/SetupAI2/wifi/connectIt.png)
+![codigo](http://appinventor.mit.edu/explore/sites/all/files/ai2tutorials/paintPot2/PaintPotAllBlocks.png)
