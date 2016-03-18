@@ -15,8 +15,6 @@ El objetivo del curso es poner en contacto a los docentes con las herramientas m
 
 Se han escogido herramientas sencillas, todas ellas programables con bloques que nos permiten crear aplicaciones y desarrollar proyectos con arduino o desarrollar aplicaciones Android con gran facilidad.
 
-
-
 1. [Contexto](./Contexto.md)
 1. [Iniciativas](./Iniciativas.md)
 1. [Lenguajes de programación](./Lenguajes.md)
