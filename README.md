@@ -11,6 +11,11 @@
 
 ![CCbySA](imagenes/CCbySQ_88x31.png)
 
+El objetivo del curso es poner en contacto a los docentes con las herramientas más actuales que permiten utilizar y enseñar la programación dentro del aula.
+
+Se han escogido herramientas sencillas, todas ellas programables con bloques que nos permiten crear aplicaciones y desarrollar proyectos con arduino o desarrollar aplicaciones Android con gran facilidad.
+
+
 
 1. [Contexto](./Contexto.md)
 1. [Iniciativas](./Iniciativas.md)
